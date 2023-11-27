@@ -131,16 +131,22 @@ The volume of delay flights per airline gives them the ability to be reliable or
 
 Conclusions:
 ●	The flight volume varies by month, with some months experiencing higher traffic than others. The highest volume is typically observed during peak travel seasons.
+
 ●	A certain percentage of flights experienced departure delays in 2015. The percentage varies throughout the year, indicating potential seasonal factors affecting delays.
+
 ●	Among the delayed flights, the average departure delay time in minutes was calculated. This metric helps in understanding the typical extent of delays for the affected flights.
+
 ●	The reliability of airlines was assessed based on their on-time departure performance. Some airlines consistently demonstrated higher on-time departure rates, while others had lower rates.
 ●	The analysis also included the calculation of the monthly volume of flights. This provides insights into the distribution of flight activity over the months of the year.
+
 ●	 The daily flight volume was examined to identify patterns and variations in flight activity based on the day of the week.
+
 ●	The dataset includes information on flight cancellations, and further analysis can be conducted to determine the most common reasons for cancellations, such as weather, airline-related issues, or other factors.
+
 For a more granular understanding, airport-specific analyses can be performed, focusing on departure and arrival delays at specific airports.
 Overall, the analysis provides valuable insights into the factors influencing flight delays, the performance of airlines, and the temporal patterns of flight activity. Further investigation into specific reasons for delays and cancellations can contribute to targeted improvements in the aviation industry.
 
 
 
-
+The data set can be found in this website: https://mavenanalytics.io/data-playground?order=-fields.dateUpdated&search=delay
 
